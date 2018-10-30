@@ -1,2 +1,2 @@
 # BaluRepository
-This is for a temporary purpose
+This is for tutorial purpose
